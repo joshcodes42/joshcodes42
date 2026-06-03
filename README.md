@@ -4,7 +4,7 @@ My name's Joshua. I like to design AI, fly planes, and code self-flying planes (
 I teach machines for the love of the game. What is the game? 
 For me, it's optimizing lightweight and energy-efficient ML models to their fullest extent possible. Let's save lives AND the environment!
 
-I'm currently working on **[Biscuit]([url](https://github.com/joshcodes42/Biscuit-Public))**. 
+I'm currently working on [Biscuit]([url](https://github.com/joshcodes42/Biscuit-Public)). 
 For any inquiries, please email me @ joshcodes42@gmail.com !
 
 > I am wonderful, I deserve to be wonderful, and I contain multitudes.
