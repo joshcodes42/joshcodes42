@@ -1,6 +1,10 @@
-## Hello, World! 👋
-My name's Joshua. I like to design AI, fly planes, and code self-flying planes (don't tell the FAA though). My  
+## Hello, World! 🙇‍♂️
+My name's Joshua. I like to design AI, fly planes, and code self-flying planes (don't tell the FAA).
 
+I teach machines for the love of the game. What is the game? 
+For me, it's optimizing lightweight and energy-efficient ML models to their fullest extent possible. Let's save lives AND the environment!
+
+I'm currently working on **Biscuit**
 <!--
 **joshcodes42/joshcodes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
