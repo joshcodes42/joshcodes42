@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, World! 👋
+My name's Joshua. I like to design AI, fly planes, and code self-flying planes (don't tell the FAA though). My  
 
 <!--
 **joshcodes42/joshcodes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
