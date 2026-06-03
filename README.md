@@ -5,12 +5,11 @@ I teach machines for the love of the game. What is the game?
 For me, it's optimizing lightweight and energy-efficient ML models to their fullest extent possible. Let's save lives AND the environment!
 
 I'm currently working on [Biscuit-Public](https://github.com/joshcodes42/Biscuit-Public). Some details:
-- It's a distributed training/inference platform.
+- It should (hopefully) replace all your expensive API calls.
 - In its first waves, it'll be available to primarily student researchers and small businesses.
-- It's astronomical. But I can't spoil too much yet, so keep in touch if you're intrigued!
+- I think the concept's super cool and disruptive, but I can't spoil too much right now. Keep in touch if you're intrigued~
 
 For any inquiries, please email me @ joshcodes42@gmail.com !
 
 > I am wonderful, I deserve to be wonderful, and I contain multitudes.
-> 
-\- Stephen King, _If It Bleeds_
+> — Stephen King, _If It Bleeds_
