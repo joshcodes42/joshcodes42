@@ -11,5 +11,5 @@ I'm currently working on [Biscuit-Public](https://github.com/joshcodes42/Biscuit
 
 For any inquiries, please email me @ joshcodes42@gmail.com !
 
-> I am wonderful, I deserve to be wonderful, and I contain multitudes.
+> I am wonderful, I deserve to be wonderful, and I contain multitudes.  
 > — Stephen King, _If It Bleeds_
