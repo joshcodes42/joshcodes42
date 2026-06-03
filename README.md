@@ -4,22 +4,12 @@ My name's Joshua. I like to design AI, fly planes, and code self-flying planes (
 I teach machines for the love of the game. What is the game? 
 For me, it's optimizing lightweight and energy-efficient ML models to their fullest extent possible. Let's save lives AND the environment!
 
-I'm currently working on [Biscuit]([url](https://github.com/joshcodes42/Biscuit-Public)). 
+I'm currently working on [Biscuit-Public](https://github.com/joshcodes42/Biscuit-Public). Some details:
+- It's a distributed training/inference platform.
+- In its first waves, it'll be available to primarily student researchers and small businesses.
+- It's astronomical. But I can't spoil too much yet, so keep in touch if you're intrigued!
+
 For any inquiries, please email me @ joshcodes42@gmail.com !
 
 > I am wonderful, I deserve to be wonderful, and I contain multitudes.
-- Stephen King, _If It Bleeds_
-<!--
-**joshcodes42/joshcodes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\- Stephen King, _If It Bleeds_
